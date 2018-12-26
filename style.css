@@ -124,10 +124,22 @@ aside#sidebar {
 	margin-top: 10px;
 	padding-top: 10px;
 }
+aside#sidebar .signup input, aside#sidebar .signup textarea {
+	width: 90%;
+	padding: 5px;
+}
 article#main-col {
 	float: left;
 	width: 65%;
 	margin-top: 10px;
+}
+ul#services li {
+	list-style: none;
+	padding: 20px;
+	border: #ccc 1px solid;
+	margin-bottom: 5px;
+	background: #e6e6e6;
+	border-radius: 10px;
 }
 footer {
 	padding: 20px;
@@ -136,3 +148,4 @@ footer {
 	background-color: #eee;
 	text-align: center;
 }
+
