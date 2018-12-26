@@ -170,6 +170,9 @@ footer {
 	#showcase {
 		min-height: 300px;
 	}
+	#showcase .container {
+		min-height: auto;
+	}
 	#showcase h1 {
 		margin-top: 40px;
 	}
