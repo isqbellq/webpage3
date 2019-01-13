@@ -98,7 +98,7 @@ header a:hover {
 #newsletter {
 	padding: 15px;
 	color: #222;
-	background: #ddd;
+	background: #eee;
 }
 #newsletter h1 {
 	float: left;
@@ -202,7 +202,8 @@ footer {
 		padding: 10px;
 	}
 	#showcase {
-		min-height: 80px;
+		min-height: auto;
+		background-size: cover;
 	}
 	#showcase h1 {
 		font-size: 30px;
