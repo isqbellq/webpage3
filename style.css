@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
 html, body {
 	margin: 0;
 	padding: 0;
 	height: 100%;
 	width: 100%;
-	font-family: Helvetica;
-	font-size: 15px;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 20px;
 	line-height: 1.5;
 	background-color: #f4f4f4;
 }
@@ -14,7 +16,7 @@ ul {
 }
 .buttons {
 	height: 40px;
-	background: #444;
+	background: #222;
 	color: #eee;
 	border: none;
 	font-size: 18px;
@@ -54,7 +56,7 @@ header {
 header a {
 	color: #eee;
 	text-decoration: none;
-	font-size: 16px;
+	font-size: 20px;
 }
 header li {
 	float: left;
@@ -113,6 +115,7 @@ header a:hover {
 	width: 250px;
 	outline: 0;
 	border: 1px solid rgba(0,0,0,0.2);
+	font-size: 16px;
 }
 #boxes {
 	margin: 20px;
@@ -195,6 +198,7 @@ footer {
 	.signup textarea {
 		width: 80%;
 		margin-bottom: 10px;
+		font-size: 16px;
 	}
 }
 
@@ -211,6 +215,6 @@ footer {
 		margin: 15px 0 0;
 	}
 	#showcase p {
-		font-size: 15px;
+		font-size: 18px;
 	}
 }
