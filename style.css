@@ -219,9 +219,11 @@ footer {
 		min-height: auto;
 		background-size: cover;
 	}
+	#showcase .container {
+		padding-bottom: 40px;
+	}
 	#showcase h1 {
 		font-size: 30px;
-		margin: 15px 0 0;
 	}
 	#showcase p {
 		font-size: 18px;
