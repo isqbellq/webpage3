@@ -178,6 +178,9 @@ footer {
 	header {
 		padding-bottom: 20px;
 	}
+	header #branding h1 {
+		font-size: 2.5em;
+	}
 	#showcase {
 		min-height: 300px;
 		background-size: cover;
@@ -205,6 +208,9 @@ footer {
 @media(max-width: 550px) {
 	nav li {
 		padding: 10px;
+	}
+	header #branding h1 {
+		font-size: 2em;
 	}
 	#showcase {
 		min-height: auto;
