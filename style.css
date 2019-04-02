@@ -166,7 +166,7 @@ footer {
 	text-align: center;
 }
 
-/* Media Queries */
+
 @media(max-width: 768px) {
 	.buttons {
 		margin-bottom: 13px;
