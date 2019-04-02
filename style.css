@@ -87,7 +87,8 @@ header .highlight, header .current a {
 	font-weight: bold;
 }
 header a:hover {
-	color: #222;
+	color: #333;
+	font-weight: bold;
 }
 #showcase {
 	min-height: 450px;
